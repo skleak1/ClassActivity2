@@ -1,2 +1,1 @@
-Goodbye World
-Update file from collaborator!
+Goodbye World 
